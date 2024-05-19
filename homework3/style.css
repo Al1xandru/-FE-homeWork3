@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url('chisinau.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+.centralDiv{
+    padding: 3%;
+    border-radius: 5px;
+    margin: 7% auto;
+    width: 65%;
+    color: #f5eedc;
+    background-image: linear-gradient(to bottom right, rgba(37, 42, 66, 0.7), rgba(54, 31, 13, 0.7));
+}
+
+h5{
+    text-align: center;
+    margin-bottom: 5%;
+    font-size: 20px;
+}
+
+ol{
+    list-style-position: inside;
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color: #f5eedc;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+    /* margin-left: auto;
+    margin-right: auto; */
+
+}
+/* td{
+    border: 1px solid white;
+} */
+.iconWidth{
+    width: 10%;
+}
+.textWidth{
+    width: 40%;
+}
